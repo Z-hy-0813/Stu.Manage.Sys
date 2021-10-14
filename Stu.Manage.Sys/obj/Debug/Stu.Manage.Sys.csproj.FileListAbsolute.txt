@@ -1,0 +1,6 @@
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.csprojAssemblyReference.cache
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.FormLogin.resources
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.FormRes.resources
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.Properties.Resources.resources
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.csproj.GenerateResource.cache
+D:\C#_Code\Stu.Manage.Sys\Stu.Manage.Sys\obj\Debug\Stu.Manage.Sys.csproj.CoreCompileInputs.cache
